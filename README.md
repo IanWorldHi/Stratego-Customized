@@ -4,5 +4,7 @@ C++ project with Model View Controller architecture. Implementation of the board
 
 Documentation: <a href="https://docs.google.com/document/d/1T9yvjlMP_jEIaILTFmpbggeRyXYij81aVHNEwnrQN1s/edit?usp=sharing">"Link"</a>
 
+Documentation: <a href="uml-final.pdf">"UML"</a>
+
 ![UML](uml-final.pdf)
-<object data="uml-final.pdf" width="1000" height="1000" type='application/pdf'/>
+
